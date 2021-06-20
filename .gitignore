@@ -1,0 +1,13 @@
+/public
+/node_modules
+/vendor
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+.*.sw?
+/**/.*.sw?
+/.kdev4
+*.kdev4
+npm-debug.log
+yarn-error.log
