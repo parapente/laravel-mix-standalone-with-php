@@ -1,5 +1,5 @@
 # laravel-mix-standalone-with-php
-Use laravel-mix to create a site without the laravel framework
+Use [laravel-mix](https://laravel-mix.com) to create a site without the [laravel](https://laravel.com) framework
 
 ## Setup
 ### Composer
